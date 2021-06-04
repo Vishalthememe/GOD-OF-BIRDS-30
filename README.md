@@ -1,2 +1,2 @@
-# GOD-OF-BIRDS-30
-ΩΩΩΩΩΩ
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
